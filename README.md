@@ -18,8 +18,8 @@
 ![ВСР2 1](https://github.com/user-attachments/assets/3cfc4efa-d019-4358-bb17-f12049e066ab)
 
 
-* ### **Задание на практику** 
+* ### **Задание на учебную практику** 
 ![Задание на учебную практику](https://github.com/user-attachments/assets/b9843590-84cb-421d-9e60-19e4b6ca51d1)
 
-* ### **Отчёт о прохождении практики** 
+* ### **Отчёт о прохождении учебной практики** 
 ![Отчёт о прохождении учебной практики](https://github.com/user-attachments/assets/89dcdb2c-c304-4349-85a2-4018a79e2b3b)
